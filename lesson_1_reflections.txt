@@ -3,3 +3,5 @@ How can you use the commands git log and git diff to view the history of files?
 -With git log --stat you have the hole info.
 -With git diff yo need the id's of the commits
 
+-With 'git checkout commitID' we can check older versions of the code  
+

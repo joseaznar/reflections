@@ -1,1 +1,2 @@
+-working directory --> staging area --> git
 
