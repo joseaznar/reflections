@@ -1,2 +1,27 @@
 -working directory --> staging area --> git
 
+- git diff with no arguments compares the files in the working directory with the ones in the staging area. 
+
+-git diff --staged makes the comparision between the staging area and the repository
+
+-git reset --hard --> resetea lo que hay en el staging area y el working direcory. 
+
+- git status lets you see what has is in the staging 
+
+-git branch with no arguments lets you see the existing branches
+
+-git branch with an argument lets you create a new branch
+
+-you go to a new branch with git checkout branch_name
+
+-with git log --graph --oneline branch_name_1 branch_name_2 you can see what commits are on wich branch in a diagram 
+
+-each commit knows about their parent
+
+git checkout -b new_brach_name creates and goes to a new brach
+
+-git merge brach_1 branch_2 merges the branch 2 with 1
+
+-git show comit_ID changes introduced compared to his parent
+
+-git branch -d coins deletes the coins branch
