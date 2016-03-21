@@ -1,0 +1,5 @@
+-git remote --> create a remote repository to push into github
+
+-git push remote_name banch_name
+
+-
